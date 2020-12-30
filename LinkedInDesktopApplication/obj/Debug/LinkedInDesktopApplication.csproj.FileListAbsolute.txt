@@ -1,0 +1,14 @@
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\bin\Debug\ProjectDatabase.mdf
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\bin\Debug\ProjectDatabase_log.ldf
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\bin\Debug\LinkedInDesktopApplication.exe.config
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\bin\Debug\LinkedInDesktopApplication.exe
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\bin\Debug\LinkedInDesktopApplication.pdb
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.Login.resources
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.PostsPage.resources
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.Properties.Resources.resources
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.startForm.resources
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.csproj.GenerateResource.cache
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.csproj.CoreCompileInputs.cache
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.exe
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.pdb
+C:\Users\sense\OneDrive\Documents\Volstate\Capstone\Group Project\LinkedInDesktopApplication\LinkedInDesktopApplication\obj\Debug\LinkedInDesktopApplication.csprojAssemblyReference.cache
